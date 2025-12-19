@@ -28,11 +28,15 @@ L’objectif était de développer une solution automatisée pour gérer les bob
 - Amélioration de la traçabilité et de l’efficacité de l’atelier
 
 ## Structure du projet
-├── code/ # Scripts Node.js, HTML/CSS, JavaScript
-├── data/ # Données de test ou fichiers JSON
-├── results/ # Résultats de tests et captures d’écran
-├── report/ # Documentation du projet
-└── README.md
+── code/ # Scripts Node.js, HTML/CSS, JavaScript
+
+── data/ # Données de test ou fichiers JSON
+
+── results/ # Résultats de tests et captures d’écran
+
+── report/ # Documentation du projet
+
+── README.md
 ## Auteur
 Maissa Mediouni  
 Élève ingénieur en génie industriel  
