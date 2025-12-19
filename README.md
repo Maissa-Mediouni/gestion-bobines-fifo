@@ -37,4 +37,5 @@ L’objectif était de développer une solution automatisée pour gérer les bob
 Maissa Mediouni  
 Élève ingénieur en génie industriel  
 maissa.mediouni@enib.ucar.tn 
+
 [LinkedIn] https://www.linkedin.com/in/maissa-mediouni-4385a8304
